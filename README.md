@@ -4,7 +4,7 @@ A browser-based tool to detect **CORS misconfigurations** in web applications.
 
 ## ⚡ Quick Start
 
-1. Open `index.html` in any browser
+1. Open `milan-gautam.github.io/cors/` in any browser
 2. Enter a target URL (e.g., `https://api.example.com/user`)
 3. Click **Exploit** or press `Enter`
 4. View the exfiltrated response
